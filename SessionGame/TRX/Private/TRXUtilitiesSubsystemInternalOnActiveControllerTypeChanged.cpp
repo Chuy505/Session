@@ -1,0 +1,6 @@
+#include "TRXUtilitiesSubsystemInternalOnActiveControllerTypeChanged.h"
+
+UTRXUtilitiesSubsystemInternalOnActiveControllerTypeChanged::UTRXUtilitiesSubsystemInternalOnActiveControllerTypeChanged() {
+}
+
+
